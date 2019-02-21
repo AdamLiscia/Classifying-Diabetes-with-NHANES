@@ -1,4 +1,4 @@
-# Classifying-Diabetes-with-NHANES
+# Classifying Diabetes with NHANES
 
 Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES database.
 
@@ -87,7 +87,7 @@ Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES
   * Exploratory Data Analysis
   * Cleaned with Pandas
   * Train - Test - Split
-  * SMOTE on the training set
+  * SMOTE of downsample the training set
   * Pipeline and GridSearchCV to find the best models
   * Look into the evaluation metrics
   
@@ -102,3 +102,10 @@ Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES
 * GridSearchCV
   
 
+***
+
+# Current Best Model
+* No Scaling
+* SMOTE
+* Random Forest Classifier
+* 69.6% Accuracy
