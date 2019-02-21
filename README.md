@@ -109,3 +109,14 @@ Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES
 * SMOTE
 * Random Forest Classifier
 * 69.6% Accuracy
+
+# Next Steps
+* Feature Selection and Feature Engineering
+* Need to remove noise and overfitting
+* Change my target to heart disease
+
+# It will never be perfect, somethings are just out of your control
+* The human body is very complex and everybody is different
+* Measure Bias will always be an issure
+* Healthy User Bias
+* Recall Bias
