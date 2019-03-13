@@ -114,6 +114,10 @@ Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES
 * Feature Selection and Feature Engineering
 * Need to remove noise and overfitting
 * Change my target to heart disease
+* Changes I know I want to make:
+ * Remove everyone older than 79
+ * Remove micro nutrients
+ * Remove head of household columns
 
 # It will never be perfect, somethings are just out of your control
 * The human body is very complex and everybody is different
