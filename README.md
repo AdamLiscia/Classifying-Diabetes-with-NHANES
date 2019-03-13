@@ -116,7 +116,7 @@ Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES
 * Change my target to heart disease
 * Changes I know I want to make:
     * Remove everyone older than 79
-    * Remove micro nutrients
+    * Remove micronutrients
     * Remove head of household columns
     * Reengineer tv and computer use columns (< 4 hours goes to 0, > 4 hours goes to 1)
 * Every model has a hard time predicting prediabetes (it's a big gray area), so I'm considering changing them all to diabetic
