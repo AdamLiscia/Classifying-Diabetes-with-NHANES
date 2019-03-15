@@ -1,6 +1,6 @@
 # Classifying Diabetes with NHANES
 
-Classifying whether someone is diabetic, prediabetic, or healthy with the NHANES database.
+Classifying whether someone is diabetic or nondiabetic with the 2015-2016 NHANES database.
 
 # Why diabetes?
 * It costs a lot:
